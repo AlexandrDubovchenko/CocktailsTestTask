@@ -1,0 +1,12 @@
+{
+  "name": "cocktailsapp",
+  "displayName": "cocktailsapp",
+  "expo": {
+    "name": "cocktailsapp",
+    "slug": "cocktailsapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
